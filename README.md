@@ -10,7 +10,7 @@
 
 ## The Project
 
-A simple demo project for mobile games in Godot called Color Eater. It is there for it to be used as a reference project on mobile game creation. This project showcases how to achieve many features in Godot.
+This project belongs to Harish
 
 Features:
 
